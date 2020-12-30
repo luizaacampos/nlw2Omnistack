@@ -1,13 +1,8 @@
-# nlw2Omnistack
-Plataforma Proffy
 
-Recentemente desenvolvi o projeto passado na trilha Omnistack da segunda Next Level Week organizada pela Rocketseat.
-A NLW tem a proposta de desenvolver uma aplicação do zero em uma semana, na trilha Omnistack além da versão web a versão mobile também é desenvolvida.
+# Plataforma Proffy
 
-A aplicação da NLW 2 foi a plataforma Proffy que tem o objetivo de ligar professores a alunos.
-Professores podem se registrar na plataforma registrando sua matéria, dias e horários disponiveis para dar aulas.
-E alunos podem procurar por professores de acordo com a matéria e dia e horário em que precisam de aulas.
+Recentemente desenvolvi o projeto passado na **trilha Omnistack** da segunda Next Level Week organizada pela **Rocketseat**. A NLW tem a proposta de desenvolver uma aplicação do zero em uma semana, na trilha Omnistack além da versão web a versão mobile também é desenvolvida.
 
-Desenvolver essa aplicação foi um desafio para mim e foi muito satisfatório ver o resultado final.
-Durante o desenvolvimento aprendi e pratiquei muito react, react native, typescript, node...
-As NLws sempre são muito enriquecedoras!
+A aplicação desenvolvida dirante a NLW 2 foi a **plataforma Proffy** que tem o objetivo de ligar professores a alunos. Professores podem se registrar na plataforma fornecendo a matéria que pretende ensinar e horários disponiveis para dar aulas. Alunos podem procurar por professores de acordo com a matéria e horário em que precisam de aulas.
+
+Desenvolver essa aplicação foi um **desafio** para mim e foi muito satisfatório ver o resultado final. Durante o desenvolvimento aprendi e pratiquei muito **react**, **react native**, **typescript**, **node**... As NLWs sempre são muito enriquecedoras!
